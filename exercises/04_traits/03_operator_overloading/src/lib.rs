@@ -37,7 +37,7 @@ mod tests {
         };
         assert!(ticket1 == ticket2);
     }
-
+    //
     #[test]
     fn test_description_not_matching() {
         let title = "title";
